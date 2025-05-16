@@ -3,11 +3,11 @@ Open-source contributor to chaos™. Former VP of Unreadable Code at The Departm
 Inventor of the ¯\_(ツ)_/¯ deployment pipeline and certified in Quantum/Atomic Merge Conflicts. 
 
 ### Currently Learning  
-- Using Arch Linux physically BTW.
+- Arch Linux BTW.
 - Recursive recursion
 - Uncertainty-Driven Development
 - Rat-based computing (ratputer v2 beta)
-- Replacing meetings with structured rat fights
+- Meetings using SDLC "structured rat fights"
 - Cubic regression in gorilla-based models
 - Passive-aggressive CI/CD
 - Vim exit strategies
@@ -18,5 +18,5 @@ Inventor of the ¯\_(ツ)_/¯ deployment pipeline and certified in Quantum/Atomi
 - No gorilla should face more than 49 men alone — I have ethics
 - If it’s not in dark mode, I can’t trust it.
 - If it compiled, I didn’t write enough tests to deserve that.
-- Vim Exiting is a form of enlightenment
+- Vim exiting is a form of enlightenment
 
