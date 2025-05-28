@@ -7,11 +7,10 @@ Inventor of the ¯\_(ツ)_/¯ deployment pipeline and certified in Quantum/Atomi
 - Recursive recursion
 - Uncertainty-Driven Development
 - Rat-based computing (ratputer v2 beta)
-- Meetings using SDLC "structured rat fights"
+- Meetings using SDLC "structured ratting"
 - Cubic regression in gorilla-based models
 - Passive-aggressive CI/CD
 - Vim exit strategies
-- Whether Neovim is editing me back
 
 ### Core Beliefs
 - My Neovim config is sentient and resents me
