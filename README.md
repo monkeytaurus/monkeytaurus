@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/96b771c2-6be6-4f22-ad99-db88fd9d3ece
+
 ### Experience  
 Open-source contributor to chaos™. Former VP of Unreadable Code at The Department of Unclear Requirements. Architect of "It Works On My Machine" solutions since yesterday. 
 Inventor of the ¯\_(ツ)_/¯ deployment pipeline and certified in Quantum/Atomic Merge Conflicts. 
